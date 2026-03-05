@@ -23,6 +23,11 @@ body{
     padding-bottom: 300px;
     background-color: green;
 }
+
+.purple {
+    padding-bottom: 200px;
+    background-color: purple;
+}
 .flex{
     display: flex;
 
