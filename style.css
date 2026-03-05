@@ -14,7 +14,16 @@ body{
     background-color: rgb(255, 238, 0);
     margin: 30px;
 }
+.red{
+    padding-right: 300px;
+    background-color: red;
+}
 
+.green{
+    padding-bottom: 300px;
+    background-color: green;
+}
 .flex{
     display: flex;
+
 }
