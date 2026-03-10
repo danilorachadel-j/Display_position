@@ -30,6 +30,10 @@ body{
     padding-bottom: 200px;
     background-color: purple;
 }
+.orange{
+    background-color: rgb(255, 94, 0);
+    padding-right: 360px;
+}
 .flex{
     display: flex;
 
