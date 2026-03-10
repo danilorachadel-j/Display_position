@@ -34,6 +34,12 @@ body{
     background-color: rgb(255, 94, 0);
     padding-right: 360px;
 }
+.isto{
+    padding-bottom: 420px;
+}
+.exato{
+    padding-bottom: 390px;
+}
 .flex{
     display: flex;
 
