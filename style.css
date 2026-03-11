@@ -40,6 +40,13 @@ body{
 .exato{
     padding-bottom: 390px;
 }
+.red_2{
+    padding-right: 360px;
+    background-color: red;
+}
+.yo2{
+    padding-bottom: 360px;
+}
 .flex{
     display: flex;
 
